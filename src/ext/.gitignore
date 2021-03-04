@@ -1,0 +1,5 @@
+fast_double_parser.h
+*.a
+*.o
+*.tar
+*.tar.gz
