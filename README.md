@@ -26,8 +26,6 @@ end
 
 ## Benchmark
 
-	*		`str.to_f64`: 6.40s
+		`str.to_f64`: 6.40s
+		`FastToF.parse?(str)`: 1.62s
 
-  *		`FastToF.parse?(str)`: 1.62s
-
-  
